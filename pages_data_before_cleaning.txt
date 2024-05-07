@@ -1,0 +1,1209 @@
+
+Business Analytics & Insights
+Simplify reporting and drive more actionable Insights
+
+
+Get in Touch
+Leverage valuable insights from your conversation data
+
+We give you the tools to leverage 
+the conversation data your customers provided or agents and AI engines collected during or after the conversation. Learn about your customers needs and preferences as well as your agents capabilities through:
+
+
+
+
+automated call tagging/wrap up codes
+
+
+sentiment analysis
+
+
+Customer Profile
+
+
+Ai generated transcripts/ summaries
+
+
+Customer Survey
+
+
+and more...
+
+
+
+
+The collected data can be used to search, filter or retrieve individual calls or can be aggregated for reporting purposes.
+
+
+Agent Guidance and Customer Satisfaction
+Recorded calls can be reviewed by supervisors in order to score an agent’s performance. Post Collaboration Surveys and Sentiment analysis can contextualize a call recording or transcript.
+
+
+This data forms the basis for automated post-call processes using AI engines which can contribute valuable insights such as patterns, trends, and areas of strength or weakness.These insights help you refine your ongoing guidance,helping your agents improve their skills over time which can lead to improved customer service.
+
+
+Talk to an expert
+Customer Satisfaction
+Learn about yourself through your customers.
+
+
+All that  you want to connect to your Contact Center
+We offer a wide range of connectors for your call center such as CRM CTI integrations, Chat and Social Media channels, AI Components for automated speech recognition, translation, biometric authentication and many other purposes, CMS / knowledge base search integrations, chat and video integrations for websites  and mobile apps, and much more.
+
+
+Don’t find what you need here? Get in touch with us and we will design a solution for you. We have more than 15 years of experience, and our list of references includes complex projects such as integrating with large banks. 
+
+
+Also, you are free to design and implement your own integrations. All our software has been built with attention to integration options, using open APIs for which we provide online documentation. 
+
+
+ 
+Filters 
+
+
+
+
+
+
+
+
+
+
+AI 
+
+
+CC 
+
+
+Cisco 
+
+
+Finesse Gadgets 
+
+
+Reporting for Cisco 
+
+
+Genesys 
+
+
+CTI Connectors 
+
+
+MS Dynamics 
+
+
+Salesforce 
+
+
+SAP 
+
+
+ServiceNow 
+
+
+Other 
+
+
+Telecom 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cisco Reports & Wallboards
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Real-time reporting add-on for Cisco UCCX ,UCCE OR PCCE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Dynamics CTI Connector
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Web-based CTI Connector from Microsoft Dynamics to Cisco UCCX / UCCE / PCCE and CUCM, Genesys and Expertflow CC
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Dynamics Screenpop Connector
+
+
+
+
+
+                     CTI Integration solution with Cisco Finesse that opens Microsoft Dynamics CRM caller account information in a browser tab.                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cisco Java SDK CTI Controls for CRMs
+
+
+
+
+
+                     Fully functional agent state and call control CTI toolbar within your CRM solution.
+
+For Cisco UCCX, UCCE, PCCE) or CUCM                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cisco Webphone
+
+
+
+
+
+                     Receive phone calls directly from a web browser. For Cisco UCCX, UCCE, PCCE                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cisco Analytical Reporting
+
+
+
+
+
+                     Analytical reports add-on for Cisco UCCX, UCCE or PCCE                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Salesforce CTI Toolbar Integration
+
+
+
+
+
+
+
+
+Salesforce CRM: CTI Toolbar Integration with Cisco, Genesys and Expertflow Contact Centers
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cisco Mobile Agent
+
+
+
+
+
+                     Mobile agent app available as a Cisco Finesse Gadget and also an integration for iPhone/ Android.                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Siebel CRM CTI Toolbar
+
+
+
+
+
+                     Get call and agent state controls in the Siebel Communication Toolbar using this CTI  Connector.
+
+For Cisco UCCX / UCCE / PCCE or Genesys                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Call Controls test
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cisco - Supervisor Tools
+
+
+
+
+
+                     Supervisor Tools, one-stop administration interface for Cisco UCCX / UCCE or PCCE.                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cisco Call Parking Gadget
+
+
+
+
+
+                     Allows agents to park and retrieve calls.
+
+For Cisco UCCX,UCCE or PCCE, Finesse Gadget                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ServiceNow CTI Toolbar
+
+
+
+
+
+                     Embedded CTI Connector for ServiceNow integration for Cisco UCCX / UCCE / PCCE or Genesys.                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SAP CRM & SAP Hybris C4C CTI Connectors
+
+
+
+
+
+                     Embedded CTI Connector toolbar provides call controls within the SAP CRM and Hybris C4C.
+
+For Cisco UCCX / UCCE or PCCE.                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cisco - Wrap-up and call tagging in Finesse Gadget
+
+
+
+
+
+                     Search, select and apply wrapups/disposition codes to inbound and outbound calls.
+For Cisco UCCX / UCCE or PCCE.                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Dynamics CRM connector
+
+
+
+
+
+                     CTI Integration for Microsoft Dynamics Sales or Dynamics Customer Service.
+For Cisco UCCX / UCCE or PCCE, CUCM, Genesys or Expertflow Cloud CC.                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Integrations Template
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cisco - Call recording
+
+
+
+
+
+                     Voice Recording Solution including call hold, call transfer and call conference.
+For Cisco UCCX / UCCE or PCCE.                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Dynamics USD CTI connector
+
+
+
+
+
+                     Microsoft Unified Service Desk - embedded CTI Connector.
+For  Cisco UCCX / UCCE / PCCE and CUCM, Genesys and Expertflow CC.                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oracle Service Cloud CTI Toolbar
+
+
+
+
+
+                     Embedded CTI Connector toolbar within Oracle CX with call and agent state controls.
+For Cisco UCCX / UCCE / PCCE or Genesys.                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rasa
+
+
+
+
+
+                     We provide integration of Rasa to your self-service business case including support in the design and configuration process.                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google DialogFlow
+
+
+
+
+
+                     We provide integration of Google DialogFlow to your self-service business case including support in the design and configuration process.                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Teneo
+
+
+
+
+
+                     We provide integration of Teneo to your self-service business case including support in the design and configuration process.                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Amazon Lex
+
+
+
+
+
+                     We provide integration of Amazon Lex to your self-service business case including support in the design and configuration process.                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mistral
+
+
+
+
+
+                     We provide integration of Mistral to your self-service business case including support in the design and configuration process.                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AI Integrations
+
+
+
+
+
+
+Integration, design and configuration support for AI based solutions. For all Contact Center plaftorms.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Outbound Campaigns
+A multichannel campaign manager that can work with lists, individual callback requests, as well as external data sources. Run interactive, agent or non-agent based campaigns (IVR/ SMS/ Chat), store interaction data, and trigger agent-based or anonymous surveys/ questionnaires.
+
+
+Get in Touch
+Use 
+Conversation Studio
+ to create this solution and many more...
+Sustainable use of resources
+Contacts being your most important resource, make sure to keep Customer connect rates high
+
+
+
+
+Callback requests
+
+
+Manage the 
+amount of calls per contact, channels and time of contact to match your customers preferences.
+
+
+
+
+Campaign management and tracking
+Manage campaigns and agent productivity
+
+
+
+
+Reduce your agent's idle time with 
+predictive dialing 
+and
+ automatically control for overdialing.
+
+
+To decrease abandonment rate, you can introduce an IVR to cover the waiting time until an agent becomes available. 
+
+
+
+
+Track your campaigns 
+
+
+
+
+Call progress analysis (CPA) 
+to determine whether the phone was picked up by customer
+
+
+Let your customers know about upcoming calls with 
+upfront emails (
+and analyze their interests)
+
+
+
+
+Talk to an expert
+Reporting
+Adjust your campaign set up on the go with data form 
+real time reporting
+
+
+
+
+Status of a contact, such as “pending”, “Sent to dialer”, “connected”.
+
+
+Calls in queue (abandon rate, waiting times due to overdialing)
+
+
+Campaign progress
+
+
+
+
+Historical reporting
+
+
+
+
+Integration with 
+cisco cuic
+ or
+ EF reporting tool
+
+
+
+
+Call Strategies
+
+Define rescheduling strategies such as number of retry attempts and the channel of the attempt, voice or SMS, for selective call results.
+
+
+ 
+Campaign Schedule
+
+Control campaign execution by defining the hours of the day and days of the week when a campaign should run.
+
+
+Start, Stop or Resume campaigns on the go
+
+Toggle to start, stop, and resume ongoing dialer campaigns. The application keeps track of the point at which the dialing stopped and resumes from this same point. 
+
+
+Contacts that got transferred to the dialer already before the campaign aborts, are still dialed.
+
+
+SMS/ Chat Campaigns
+
+Choose the campaign channel as voice or SMS.
+
+
+Add SMS attempts in a Voice campaign to reach customers via SMS if not reachable via voice. You can also run standalone SMS campaigns to send promotions, business reminders or follow ups to customers.
+
+
+Campaigns over digital channels such as chat (SMS, Email, WhatsApp, or any chat) are now available with the
+ 
+Expertflow Plugin to Mautic
+
+
+Callback
+Let your customers request an agent to call them back instead of waiting in a queue.
+
+
+Get in Touch
+Decreased abandon rates and higher customer satisfaction
+Are you worried of loosing Customers because they get stuck in queues, or are you conducting surveys and your participants are currently not picking up? By deploying a callback functionality,
+
+any actor, meaning a Customer, an agent and even a chat bot, having a conversation on any medium can request a callback via any medium.
+
+
+Agent Capabilities
+Simplify the agent experience with AgentDesk
+
+
+Get in Touch
+Agent Controls
+
+
+View and edit unified conversation history
+
+
+Agent and media state control: ready/not ready, media state
+
+
+Agent preferences
+
+
+Assigning labels such as VIP, repetitive, malicious to callers in order to provide caller-specific routing.
+
+
+
+
+Use wrap-up codes manually entered by agents or automatically extracted using AI engines to tag calls in terms of success or failure, duration and more.
+
+
+Channel elevation
+During a chat session an agent can elevate the conversation to a call session, in order to resolve a complex issue quicker.
+
+
+Mobile Agent & Webphone
+The Agent webphone solution enables agents on a web browser without VPN, nor any installable software to securely login to a Cisco contact center and receive a phone call directly from a web browser.
+
+
+The mobile agent app is available as a Cisco Finesse Gadget and also an integration for iPhone/ Android. Agents can support customers using their mobile phones, in the absence of a desktop or a VPN connection. The actual calls can be carried either over GSM or a data connection.
+
+
+Talk to an expert
+Dashboards & Wallboards
+ExpertFlow’s Dashboards & Wallboards application allows the contact center administrators, supervisors and agents to create and customize dashboards as per the needs of the business. Admins can create a contact center Wallboard to be displayed on a large screen in a room.
+
+Choose from different templates to display real time insights into your data in line-, bar- or pie charts, and tables. Customize the gadget to see the attributes important to the business while hiding the rest.
+
+
+Talk to an expert
+Skill-based routing
+Route customers to the agent with the most relevant skills
+
+
+Get in Touch
+Use our 
+Conversation Studio
+ to create this solution and many more...
+Precise routing
+EFCX features multi-step skill-based routing of a conversation (chat, voice, video, email,..).  to the agent with the most relevant skills for handling their concerns of the caller, based on several criteria which can be configured. This ensures that customers are assisted by agents who have the tools and training necessary to resolve concerns efficiently, increasing customer satisfaction and their chances of resolving concerns immediately.
+
+
+Skill-based routing can further improve the performance and productivity of agents by letting a specialized agent handle queries that align with their skills, reducing their average time with callers.
+
+
+Can be used in both inbound calls and outbound campaigns
+Talk to an expert
+delete section probably
+Use Precision Routing to direct clients to the right agent when multiple skills are mandatory to be fulfilled at the same time such as spoken language, domain knowledge or having treated this very customer already in a previous session.
+
+
+Learn more
+Customer Channels
+Get in Touch
+Conversation Studio
+The Conversation Studio allows you to orchestrate complex scenarios with pre-built Expertflow and any third party components of your choice. Connect any AI engine (voice- or chatbot), Callcenter (Cisco, Genesys,..), customer channel (voice, chat,..) in sequence or in parallel at any moment of a customer's journey and seamlessly exchange information between customer, agent and bots.
+
+
+Get in Touch
+Flow Builder
+ Design customer conversations across media channels (voice, chat, video, web). Using our visual 
+Conversation Studio 
+you can define all types of interactions both for inbound and outbound conversations such as IVR, surveys, call deflection, scheduling, routing, and more. Define which actors (customer, AI engines, bots, human agents, and supervisors)  should be engaged at what moment. 
+Expertflow provides free Conversation flow templates that you can use, such as post collaboration surveys, call deflection, scheduling that you can adapt as per your needs.
+ Should you need assistance in defining or testing conversation design, we are at your side with our professional services.
+
+
+Learn More
+Expertflow Conversation Studio allows you to 
+ to control the following media:
+
+
+
+
+Voice at a signalling stage before a call even terminates
+
+
+Digital channel handlers (Email, chat, Social Media, ...)
+
+
+Email
+
+
+WWW activities
+
+
+
+
+A glance at the technical architecture of our conversation designer
+Expertflow Conversation Control is based on a few central elements:
+
+
+
+The 
+EF SIP proxy
+ allows EFCX to take over control of incoming calls at the earliest possible time.
+
+
+The 
+EF Media server
+ provides a bidirectional audio channel to clients and can serve as a voice input during an IVR or a gateway to integrate third party AI-based voice bots such as voice transcription.
+
+
+The 
+conversation meta data bus
+ shares real-time data between the parties (customer, bots, agents, supervisors) that are part of a conversation. This can be individual activities (a spoken sentence, chat message, geolocation, translation, voice biometrics, answer suggestions,...), key-value pair Conversation Data (customer profile, call tags) and forms.
+
+
+Various 
+Ai engines
+ that can be integrated become part of the conversation control and can be programmed to act at any point in time during the conversation. For example, to implement transcription, the media server would create a unidirectional SIPREC connection to an ai bot which then receives the voice stream. The output of the AI engine (text) would go to the conversation metadata bus and from there it can be displayed on the agent desk and written into the transcript. AI engines can be from standard 3rd party providers or also Open Source components.
+
+
+Various static and also real-time information relating to the conversation is made available on the 
+agent desktop
+. Which information is visible can be controlled at any point in time during the conversation, provided that the agent has the access rights for a particular data.
+
+
+3rd Party components
+, such as Cisco CUBE
+
+
+
+
+Learn More
+solutions designed with conversation Studio
+These solutions come pre-bundled as templates with EFCX and you can use them out of the box or edit and adapt them to suit your specific needs.
+
+
+IVR call deflection
+
+
+Deflect calls to chat and Visual IVR and decrease costs
+
+
+Post Collaboration Survey
+
+
+Enquire about customer satisfaction
+
+
+Customer surveys / Polls
+
+
+Connect Facebook, Twitter, Instagram and other social media platforms.
+
+
+Outbound Campaigns
+
+
+ipsum sic amet
+
+
+Callback
+
+
+text missing
+
+
+Channel elevation
+
+
+Resolve complex issues quicker by elevating a chat session to a call
+
+
+Callcenter
+
+
+IVR and routing engine
+
+
+Voice
+
+
+via GSM, landline, web browser or mobile app
+
+
+Chat
+
+
+through your website, SMS, Whatsapp, Facebook Messenger and Twitter DM
+
+
+Social Media
+
+
+Connect Facebook, Twitter, Instagram and other social media platforms.
+
+
+Video Calls & Screen Sharing
+
+
+Enable visual communication with customers through video calls and screensharing.
+
+
+Email & FAX
+
+
+text missing or are we not mentioning this?
+
+
+Mobile app & Website
+
+
+Turn your website or mobile app into a secure omni-channel customer communication solution.
+
+
+Outbound Campaign
+Create or synchronise lists of customers to reach out to at a certain time and design outbound conversations for these lists.
+
+
+Get in Touch
+Survey as a part of the Conversation
+Outbound conversations can include multiple attempts/ sessions across multiple channels (chat, email, voice,..) and the exact flow can be defined with our graphical Conversation Design tool. 
+
+
+By using multiple channels, a campaign can reach prospects through their preferred communication method and increase the chances of conversion.
+
+
+For example in an outbound voice campaign, customers can be sent an email upfront informing them about an upcoming call. The email can contain a link offering more information, which allows tracking of interest on the customer side and triggers an agent to call them.
+
+
+Voice CPA (call progress analysis) can be used to track the progress of voice calls in outbound campaigns.
+
+
+Possible scenarios:
+
+
+When an agent finishes the call, he transfers the call or chat session directly to an IVR or chatbot that speaks or displays the questions and collects the answers from the customer and fills in a form, which attaches that data as conversation data to that conversation.
+
+
+Alternatively, a contact is scheduled to the customer via the 
+Scheduler
+, as part of the same conversations and conversation data added to the same conversation.
+
+
+
+
+The data collected by multiple 
+PCS
+ in forms can be used to create 
+Reports
+ with relevant summaries / evolutions of trends etc.
+
+
+
+
+Talk to an expert
+Customer Survey
+Our solution combines flexibility and efficiency to empower your market research and enhance customer satisfaction.
+
+
+Get in Touch
+Use 
+Conversation Studio
+ to create this solution and many more...
+Targeted customer reach
+Target customer segments in your surveys to conduct precise market research or to enquire about their satisfaction with specific services or products.
+
+
+
+
+connect to your customers on their 
+preferred channels 
+
+
+at a time that is most convenient to you and them
+
+
+
+
+Take control with Conversation Studio  
+A flexible solution doesnt force you to
+
+
+
+
+A good survey is more than just filling forms, they are a integral part of your outbound campaigns
+
+
+
+
+
+
+Talk to an expert
+Realize the full potential of forms/questionnaires(weles?)
+The ability to conduct your surveys through different channels/actors? adds versatility to your campaigns
+
+
+
+
+Have agents conduct a survey via a 
+call or chat
+ session
+
+
+Voice- or Chatbots
+ can fill out forms
+
+
+Let your customer fill out questionnaires with an IVR
+
+
+
+

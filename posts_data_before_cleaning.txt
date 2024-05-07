@@ -1,0 +1,267 @@
+Expertflow’s 
+Customer Widget
+ combines voice and 
+chat
+ communication channels into one platform that integrates into your website or mobile app. Its user-friendly interface can be configured to show your logo and colors. Your customers can reach out and receive prompt responses 24/7 without having to navigate away from the website or wait on hold.
+
+Our Customer Widget is available for 
+Expertflow CC
+ and Cisco Cloud CC for voice. We provide an SDK that allows embedding in mobile or web apps. There is also an option to include video with the Customer Widget. Voice and video are based on WebRTC.
+
+You can use chatbots with the Customer Widget to engage customers to fill out pre-conversation forms and post-collaboration surveys. We 
+integrate with chatbots
+ such as Rasa, Google Dialogflow, IBM Watson and more.
+
+Watch Expertflow’s Customer Widget for the Chat/Voice demo or 
+contact us
+ for more information.
+
+
+The Expertflow MS CRM connector for Genesys Cloud Contact Center is now available on 
+Genesys Appfoundry
+. This embedded CTI Connector runs inside the Microsoft CRM Web UI and enables agent/call controls within MS CRM, allowing agents to use the same CRM agent interface for all call handling and transfer. It provides call and agent state controls within the Dynamics 365 CRM, eliminating the need for agents to switch between applications. 
+
+
+Agent Login
+
+
+ 
+
+
+Figure 1:
+ Agent Login
+The Expertflow MS CRM connector for Genesys Contact Center provides access to a unified customer profile that combines data from both systems, leading to more personalized interactions and improved efficiency in call handling.
+
+
+Screen Popup
+
+
+Figure 2:
+ The screen popup displays all important information about the caller on the MS CRM web client, including their business and personal details and their history of phone call activity. This makes it easier for the agent to welcome the customer and know about them from the beginning without searching for that information. If multiple contacts match, the connector shows all those contacts for the agent to choose from.
+
+We will also provide digital channels (SMS and social media) for MS Dynamics integration with Genesys and a Salesforce integration with Genesys Cloud Contact Center.
+
+Find 
+more information about this integration
+ on our website, or contact 
+Expertflow
+.
+
+ 
+Customers that call into a contact center are often greeted by an automated voice menu (so-called  Interactive Voice Response or IVR) before being transferred to an agent. At that moment, using IVR deflection, the caller can be directed to an automated service provided in a chat channel. 
+
+
+IVR deflection makes use of the following: 
+
+
+
+
+Implementing self-service for chat is easier than for voice (speech is messier than text) and 
+
+
+If an agent needs to be involved, he will be able to handle multiple chat sessions vs. only one voice call at a time, so the agent’s work time is used more productively.
+
+
+
+
+So the gain from IVR deflection is that you can do easier and more cost effective self service, since you need to hand off to expensive agents only at a later stage. Secondly one agent can handle multiple chat sessions instead of just one voice call. These two factors drive down cost!
+
+
+
+
+How Expertflow IVR Deflection works:
+
+
+IVR deflection enables customers in a voice inquiry to switch to a chat session with automated self-service options. This works by sending an SMS to the customer (which anybody can receive)  with a link to start a more comfortable Webchat session.
+
+
+
+
+
+
+Expertflow’s 
+Hybrid Chat
+ solution now integrates with 
+Cisco Jabber
+, allowing businesses to engage with customers on SMS, WhatsApp, Viber and Facebook Messenger, all from the interface of Cisco Jabber. Customers have the flexibility to interact using their preferred messaging app, and this integration merges the messages into one unified interface. 
+
+
+Using our Cisco Jabber desktop integration with Expertflow Hybrid Chat, an agent can chat with the customer while the customer is sending messages via web chat. See how that works  in our demo video.
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Expertflow has been officially renewed as a Cisco Advanced Unified Contact Center Enterprise Specialization Partner.
+
+We have again met the program requirements and have demonstrated our qualifications to sell, install, and support customers with Advanced UCCE Specialization (formerly called ATP) products and solutions.
+
+Further to the Advanced UCCE Specialization renewal, Expertflow is also an Advanced Collaboration Architecture Specialization and Cisco Unified Contact Center Express Specialization Partner.
+
+Expertflow has been Cisco Contact Center partner since 2007 and has multiple times been Cisco Contact Center partner of the year for MEA and / or EMEAR.
+
+
+Visit 
+Expertflow
+ to learn more about our specialized solutions and how they can benefit your organization.
+
+
+
+
+
+
+
+
+
+ 
+Expertflow’s customer interaction solution for voice, video and chat is now available as a full-featured cloud contact center solution. The cloud solution is designed specifically for clients who must have all their data stored in a certain geographical region but wish to profit from the cost and simplification advantages the cloud brings. Alternatively, our solutions can also be run on your local infrastructure.
+
+Expertflow will continue fully supporting Cisco CCX and CCE infrastructure and provide add-on software to 
+Genesys Appfoundry
+. Benefit from local support, courtesy of our engineering teams in Switzerland, the USA, Morocco, Egypt, Nigeria, Kenya, South Africa, Pakistan, and India, with a successful track record of implementing numerous award-winning on-prem and cloud enterprise call centers.
+
+
+ 
+Click here
+ to read more.
+
+
+
+
+
+
+Uganda Revenue Authority Feedback: 
+
+
+“We are pleased with the expertise and professionalism of the Expertflow team. Its products have improved our customer services enabling agents with tools to respond more efficiently. The self-service IVR & chat provides automated responses based on the customer’s profile and knowledge base, thus reducing average handle time”. 
+
+
+                     
+ 
+
+
+
+
+
+
+
+
+Uganda Revenue Authority assesses, collects and accounts for Central Government Tax Revenue. As the tax collection process can be complex and overwhelming for many taxpayers, URA strives to provide excellent customer service to make the process easier and more efficient. To achieve this goal, URA partnered with Expertflow, a global provider of customer experience solutions.
+
+
+Expertflow upgraded URA’s Cisco Unified Contact Center Express and implemented an 
+IVR
+ integration with backend CRM to provide self-service for 
+WhatsApp
+ and web chat as part of an ongoing improvement. The upgrade enables citizens to interact via digital channels with URA. Using this software, URA can now handle more customer inquiries and respond to them promptly and accurately without putting them on hold.
+
+
+Looking to see Expertflow’s hybrid chat solution in action? Watch the demo below:
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+KCB Bank Feedback: 
+
+
+“We receive over 18000 customer interactions daily. In 2022, we received over 2.5 million voice calls and over 2.7 million interactions on social media. We partnered with Expertflow to enable us to manage our contact center using AI technology”. 
+Jackline Wanjiru
+, Deputy Director Customer Excellence.
+
+
+                      
+ 
+
+
+
+
+
+
+
+
+KCB is the largest East African Bank measured by Tier 1 capital and branches across all countries in the Great Lakes, with 6 billion USD assets under management, nearly 30 million customers and 6000 employees. Their history ranges back to 1809. They promise to bring banking to previously unbanked citizens. For that goal, their customer service capabilities are essential. Customer service has top management’s attention and invests in their physical and digital customer service capabilities. 
+
+
+Expertflow East Africa Director, Abdul Basit, sits down with Jackline Wanjiru, Deputy Director Customer Excellence of KCB Bank Kenya, to learn how Expertflow’s 
+contact center
+ solution has improved their customer service experience. 
+
+
+Watch video:
+
+
+
+
+ 
+
+
+ 
+
+Expertflow hosted a customer experience event at the Radisson Arboretum in Nairobi on April 4th, 2023. Amongst the 40 attending clients were major Banks, Insurance Companies, Government Authorities and NGOs.
+
+The presentation and discussion looked at how to enhance their existing customer service. An outlook showed how existing Expertflow software would be enhanced and unified with new API-first objects such as customers, rooms, conversations, sessions, and conversation metadata.
+
+Three topics were discussed in more detail:
+
+
+
+Enhancing mobile banking apps for clients with unified communication capabilities such as secure over-the-top free voice, video, screen share and chat. Scheduling capabilities to receive callbacks by their private banker or customer support.
+
+
+ Use of 
+Artificial Intelligence
+ both for digital (chat, email, social) and for voice and video in the form of Speech Recognition, Natural Language Understanding (available in localised Swahili), Voice and Face Biometrics, Transcription, and detection of toxic language or fraud.
+
+
+Expertflow is moving towards a pay-per-use subscription model of its software as a cloud service. These can be public or private clouds, but the main driver is automated flexible scaling, continuous integration/ deployment (no more upgrades).
+
+
+
+
+The presentation can be found here.
+
+Khidher Adam from eipiea.com provided an initial animation.
+
+
+Andreas Stuber (CEO)
+
+
+Abdul Basit (MD East Africa)
+Cisco has announced an 
+EOL/ EOS Notice for CUSP
+ (Cisco unified SIP Proxy). 
+
+
+Expertflow provides a cloud SIP Proxy service that acts as a replacement for Cisco CUSP, as well as a 
+Session Border Controller for Direct Routing for Microsoft Teams
+ for 50 USD per connected node/ tenant per month. 
+
+
+See our documentation for 
+CX SIP Proxy as a CUSP replacement.
+
+
+Connect to a SIP trunk of your choice.
+
+
